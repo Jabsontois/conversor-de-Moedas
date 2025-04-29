@@ -39,7 +39,7 @@ label {
 select, input {
 
      background: #FFFFFF;
-     border: 1px solid #BBBBBBBB;
+     border: 1px solid #bbbbbb81;
      border-radius: 48px;
      width: 100%;
      margin-bottom: 24px;
@@ -47,7 +47,7 @@ select, input {
      padding-left: 18px;
      font-weight: 700px;
      font-size: 16px;
-     color: #55555555;
+     color: #2c2c2c2c;
     
 }
 
